@@ -22,5 +22,6 @@ UPNP Plugin Devmo
 ##### [![UPNP Plugin Devmo](http://img.youtube.com/vi/_xru-Xc7Cwc/1.jpg)](https://www.youtube.com/watch?v=_xru-Xc7Cwc) 
 
 # Contact and Support
-cyberjjanggu@gmail.com
+mail : cyberjjanggu@gmail.com
+skype : woods_shin
 
