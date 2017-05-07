@@ -15,7 +15,7 @@ UPNP Plugin is code plugin to make you easy to add and delete UDP/TCP port mappi
 ##### Platforms Tested : Window, Mac 
  
 # Manual 
-##### Not ready yet
+##### https://ue4plugin.wordpress.com/2017/05/07/simple-upnp-plugin/
 
 # Demos 
 UPNP Plugin Devmo
