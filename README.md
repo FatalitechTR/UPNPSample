@@ -19,9 +19,10 @@ UPNP Plugin is code plugin to make you easy to add and delete UDP/TCP port mappi
 
 # Demos 
 Here is android build.
+
 https://github.com/woodsshin/UPNPSample/blob/master/Android_Build/UPNPSample_Adroid.zip
 
-In order to run it, you have to enable USB debugging.
+In order to run it on android, you have to enable USB debugging and modify ANDROIDHOME as your local path in Install_UPNPSample_Development-armv7-es2.bat and Uninstall_UPNPSample_Development-armv7-es2.bat.
 https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/2/index.html
 
 UPNP Plugin Devmo
