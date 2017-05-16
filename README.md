@@ -12,12 +12,18 @@ UPNP Plugin is code plugin to make you easy to add and delete UDP/TCP port mappi
 # Engine Compatibility
 ##### Engine Version : 4.10 - 4.15 
 ##### Intended Platform : Window, Mac, Mobile 
-##### Platforms Tested : Window, Mac 
+##### Platforms Tested : Window, Mac, Android
  
 # Manual 
 ##### https://ue4plugin.wordpress.com/2017/05/07/simple-upnp-plugin/
 
 # Demos 
+Here is android build.
+https://github.com/woodsshin/UPNPSample/blob/master/Android_Build/UPNPSample_Adroid.zip
+
+In order to run it, you have to enable USB debugging.
+https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/2/index.html
+
 UPNP Plugin Devmo
 ##### [![UPNP Plugin Devmo](http://img.youtube.com/vi/_xru-Xc7Cwc/1.jpg)](https://www.youtube.com/watch?v=_xru-Xc7Cwc) 
 
