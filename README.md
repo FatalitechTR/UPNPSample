@@ -10,7 +10,8 @@ UPNP Plugin is code plugin to make you easy to add and delete UDP/TCP port mappi
 ##### ![alt text](https://github.com/woodsshin/UPNPSample/blob/master/ScreenShot/portmapping.png)
 
 # Engine Compatibility
-##### Engine Version : 4.10 - 4.15 
+##### Engine Version : 4.11 - 4.16
+##### Sample project Version : 4.16 
 ##### Intended Platform : Window, Mac, Mobile 
 ##### Platforms Tested : Window, Mac, Android
  
